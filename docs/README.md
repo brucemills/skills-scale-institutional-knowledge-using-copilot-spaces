@@ -26,6 +26,7 @@ Supporting practices include clear cross-functional ownership across PM, Product
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Role-Responsibility Matrix](./octoacme-role-responsibility-matrix.md)
 
 ---
 
