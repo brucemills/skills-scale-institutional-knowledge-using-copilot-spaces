@@ -16,9 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager / Tech Lead: owns technical direction, architecture, and engineering quality.
 - Developers: implement features, collaborate on design and testability.
+- UX/UI Designer: defines user flows and design specifications; ensures usability and accessibility.
+- DevOps / Platform Engineer: maintains CI/CD, deployment standards, and operational readiness.
 - QA/Testing: validate quality and acceptance criteria.
+- Customer Support / Success Representative: surfaces customer feedback and ensures support readiness.
+- Security / Compliance Representative: provides security and compliance input across the lifecycle.
 - Stakeholders: provide inputs and approvals.
+
+For full role definitions, responsibilities, and interaction points, see [OctoAcme Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
